@@ -62,7 +62,7 @@ public class TreeHouse
     private void commonSetup(final FMLCommonSetupEvent event)
     {
         // Some common setup code
-        LOGGER.info("HELLO FROM COMMON SETUP Will was here.");
+        LOGGER.info("HELLO FROM COMMON SETUP Will was here modified.");
         LOGGER.info("DIRT BLOCK >> {}", ForgeRegistries.BLOCKS.getKey(Blocks.DIRT));
     }
 
